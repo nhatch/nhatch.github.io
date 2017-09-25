@@ -1,3 +1,6 @@
+---
+title: Nathan Hatch
+---
 ## Research Interests
 
 I am interested in machine learning, somewhere in the middle of the theory-application spectrum. Recently I have been studying continuous-control reinforcement learning for robotics under the direction of [Byron Boots](https://www.cc.gatech.edu/~bboots3/).
