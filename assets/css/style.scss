@@ -9,12 +9,12 @@ img.logo {
   padding: 5px;
 }
 
-a:hover {
+a:hover, a:focus {
   font-weight: normal;
   text-decoration: underline;
 }
 
 img.headshot {
-  max-height: 150px;
-  max-width: 150px;
+  max-height: 200px;
+  max-width: 200px;
 }
