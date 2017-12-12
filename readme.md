@@ -4,13 +4,13 @@ I am interested in machine learning, somewhere in the middle of the theory-appli
 
 ## Publications
 
-Hatch, Nathan. [Unsupervised Curriculum Learning for Image Clustering](/files/image-clustering.pdf). Poster presented at: [CS 7643 Deep Learning](https://www.cc.gatech.edu/classes/AY2018/cs7643_fall/) class project; 2017 Nov 29; Atlanta, GA.
+Hatch, N. [Unsupervised Curriculum Learning for Image Clustering](/files/image-clustering.pdf). Poster presented for: [CS 7643 Deep Learning](https://www.cc.gatech.edu/classes/AY2018/cs7643_fall/) Class Project; 2017 Nov 29; Atlanta, GA.
 
-Hatch, Nathan. [Group Theory: An Introduction and an Application](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2011/REUPapers/Hatch.pdf). University of Chicago VIGRE REU, 2011.
+Hatch, N. [Group Theory: An Introduction and an Application](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2011/REUPapers/Hatch.pdf). University of Chicago VIGRE REU, 2011.
 
 ## Bio
 
 I began studying in the Georgia Tech [Machine Learning PhD program](http://ml.gatech.edu/phd) in Fall 2017. Prior to that, I worked for three years as a software engineer at [eSpark Learning](http://www.esparklearning.com), a young education technology company working on improving academic results for grade school students by curating educational resources based on test scores. I completed my Bachelor of Science degree at the [University of Chicago](http://www.uchicago.edu) in 2014 with a double major in mathematics and computer science. 
 
-[Curriculum Vitae](/files/cv-2016-11-26.pdf) (updated 2016-11-26)
+[Curriculum Vitae (CV)](/files/Hatch-Nathan-CV-2017-12-11.pdf) (updated 2017-12-11)
 
