@@ -1,12 +1,14 @@
 ## Research Interests
 
-I am interested in machine learning, somewhere in the middle of the theory-application spectrum. Recent topics include transfer learning, meta learning, and hierarchical reinforcement learning. My advisor is [Byron Boots](https://www.cc.gatech.edu/~bboots3/).
+I am interested in machine learning, somewhere in the middle of the theory-application spectrum. Recent topics include transfer learning, meta learning, and hierarchical reinforcement learning. My advisor is [Byron Boots](https://www.cc.gatech.edu/~bboots3/), who directs the [Robot Learning Lab](http://robotlearning.gatech.edu).
 
 ## Class Projects
 
-Hatch, N., Sundaresan, A., Dutreix, M., Kuppan, R., and Pattanashetty, P. [Google Landmark Recognition and Retrieval Challenges](/files/landmarks_report.pdf). [ECE 6254 Statistical ML](http://anderson.ece.gatech.edu/ece6254/assignments.html) Class Project; Spring 2018. [[poster](/files/landmarks_poster.pdf)]
+Hatch, N. and Wijmans, E. Probabilistic Graphical Modeling of Data-Dependent Annotator Accuracy for Active Learning. CS 8803 Probabilistic Graphical Models; Spring 2018. [[slides](/files/Hatch_Wijmans_presentation_slides_v2.pdf)]
 
-Hatch, N. [Unsupervised Curriculum Learning for Image Clustering](/files/image-clustering.pdf). Poster presented for: [CS 7643 Deep Learning](https://www.cc.gatech.edu/classes/AY2018/cs7643_fall/) Class Project; 2017 Nov 29; Atlanta, GA.
+Hatch, N., Sundaresan, A., Dutreix, M., Kuppan, R., and Pattanashetty, P. Google Landmark Recognition and Retrieval Challenges. [ECE 6254 Statistical ML](http://anderson.ece.gatech.edu/ece6254/assignments.html); Spring 2018. [[paper](/files/landmarks_report.pdf)] [[poster](/files/landmarks_poster.pdf)]
+
+Hatch, N. Unsupervised Curriculum Learning for Image Clustering. [CS 7643 Deep Learning](https://www.cc.gatech.edu/classes/AY2018/cs7643_fall/); Fall 2017. [[poster](/files/image-clustering.pdf)]
 
 ## Publications
 
