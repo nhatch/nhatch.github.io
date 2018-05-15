@@ -5,7 +5,7 @@ I am interested in machine learning, somewhere in the middle of the theory-appli
 ## Class Projects
 
 N. Hatch and E. Wijmans. _Probabilistic Graphical Modeling of Data-Dependent Annotator Accuracy for Active Learning._ CS 8803 Probabilistic Graphical Models; Spring 2018.
-[[paper](/files/Hatch_Wijmans_final_report.pdf)] [slides](/files/Hatch_Wijmans_presentation_slides_v2.pdf)]
+[[paper](/files/Hatch_Wijmans_final_report.pdf)] [[slides](/files/Hatch_Wijmans_presentation_slides_v2.pdf)]
 
 N. Hatch, A. Sundaresan, M. Dutreix, R. Kuppan, and P. Pattanashetty. _Google Landmark Recognition and Retrieval Challenges._ [ECE 6254 Statistical ML](http://anderson.ece.gatech.edu/ece6254/assignments.html); Spring 2018.
 [[paper](/files/landmarks_report.pdf)] [[poster](/files/landmarks_poster.pdf)]
