@@ -22,5 +22,5 @@ Hatch, N. _Group Theory: An Introduction and an Application._ University of Chic
 
 I began studying in the Georgia Tech [Machine Learning PhD program](http://ml.gatech.edu/phd) in Fall 2017. Prior to that, I worked for three years as a software engineer at [eSpark Learning](http://www.esparklearning.com), an education technology company that adaptively curates educational resources for grade school students based on their test scores. I completed my Bachelor of Science degree at the [University of Chicago](http://www.uchicago.edu) in 2014 with a double major in mathematics and computer science. 
 
-[Curriculum Vitae (CV)](/files/Hatch-Nathan-CV-2017-12-11.pdf) (updated 2017-12-11)
+[Curriculum Vitae (CV)](/files/Hatch-Nathan-CV-2018-10-07.pdf) (updated 2018-10-07)
 
