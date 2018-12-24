@@ -4,7 +4,7 @@ I am interested in machine learning, somewhere in the middle of the theory--appl
 
 ## Publications
 
-A. Shaban, C. Cheng, N. Hatch, and B. Boots. _Truncated Back-propagation for Bilevel Optimization._ arXiv preprint; October 2018.
+A. Shaban, C. Cheng, N. Hatch, and B. Boots. _Truncated Back-Propagation for Bilevel Optimization._ Proceedings of the 22nd International Conference on Artificial Intelligence and Statistics (AISTATS 2019).
 [[arXiv](https://arxiv.org/abs/1810.10667)]
 
 N. Hatch. _Group Theory: An Introduction and an Application._ University of Chicago VIGRE REU; August 2011.
@@ -25,5 +25,5 @@ N. Hatch. _Unsupervised Curriculum Learning for Image Clustering._ [CS 7643 Deep
 
 I began studying in the Georgia Tech [Machine Learning PhD program](http://ml.gatech.edu/phd) in Fall 2017. Prior to that, I worked for three years as a software engineer at [eSpark Learning](http://www.esparklearning.com), an education technology company that adaptively curates educational resources for grade school students based on their test scores. I completed my Bachelor of Science degree at the [University of Chicago](http://www.uchicago.edu) in 2014 with a double major in mathematics and computer science. 
 
-[Curriculum Vitae (CV)](/files/Hatch-Nathan-CV-2018-11-13.pdf) (updated 2018-11-13)
+[Curriculum Vitae (CV)](/files/Hatch-Nathan-CV-2018-12-24.pdf) (updated 2018-12-24)
 
