@@ -1,6 +1,11 @@
 ## Research Interests
 
-I am interested in machine learning, somewhere in the middle of the theory--application spectrum. Recent topics include transfer learning, meta learning, and hierarchical reinforcement learning. My advisor is [Dr. Byron Boots](https://www.cc.gatech.edu/~bboots3/), who directs the [Georgia Tech Robot Learning Lab](http://robotlearning.gatech.edu).
+I'm interested in developing and analyzing algorithms for reinforcement learning
+problems, especially in cases where the environment is complicated but there is a "teacher"
+available. For example, this teacher could be an oracle mapping states to actions (imitation
+learning) or it could be some additional structure in the learning process (curriculum
+learning). I hope to find some interesting theory and test it on real-world RL problems like
+robotic control. My advisor is [Dr. Byron Boots](https://www.cc.gatech.edu/~bboots3/), who directs the [Georgia Tech Robot Learning Lab](http://robotlearning.gatech.edu).
 
 ## Publications
 
