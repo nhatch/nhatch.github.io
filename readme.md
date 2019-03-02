@@ -5,7 +5,10 @@ problems, especially in cases where the environment is complicated but there is 
 available. For example, this teacher could be an oracle mapping states to actions (imitation
 learning) or it could be some additional structure in the learning process (curriculum
 learning). I hope to find some interesting theory and test it on real-world RL problems like
-robotic control. My advisor is [Dr. Byron Boots](https://www.cc.gatech.edu/~bboots3/), who directs the [Georgia Tech Robot Learning Lab](http://robotlearning.gatech.edu).
+robotic control. My advisor is [Dr. Byron Boots](https://www.cc.gatech.edu/~bboots3/), who
+directs the [Georgia Tech Robot Learning Lab](http://robotlearning.gatech.edu).
+
+[Curriculum Vitae (CV)](/files/Hatch-Nathan-CV-2018-12-24.pdf) (updated 2018-12-24)
 
 ## Publications
 
@@ -29,6 +32,4 @@ N. Hatch. _Unsupervised Curriculum Learning for Image Clustering._ [CS 7643 Deep
 ## Bio
 
 I began studying in the Georgia Tech [Machine Learning PhD program](http://ml.gatech.edu/phd) in Fall 2017. Prior to that, I worked for three years as a software engineer at [eSpark Learning](http://www.esparklearning.com), an education technology company that adaptively curates educational resources for grade school students based on their test scores. I completed my Bachelor of Science degree at the [University of Chicago](http://www.uchicago.edu) in 2014 with a double major in mathematics and computer science. 
-
-[Curriculum Vitae (CV)](/files/Hatch-Nathan-CV-2018-12-24.pdf) (updated 2018-12-24)
 
