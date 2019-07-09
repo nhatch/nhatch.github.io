@@ -13,7 +13,7 @@ directs the [Georgia Tech Robot Learning Lab](http://robotlearning.gatech.edu).
 ## Publications
 
 A. Shaban, C. Cheng, N. Hatch, and B. Boots. _Truncated Back-Propagation for Bilevel Optimization._ Proceedings of the 22nd International Conference on Artificial Intelligence and Statistics (AISTATS 2019).
-[[arXiv](https://arxiv.org/abs/1810.10667)]
+[[PMLR](http://proceedings.mlr.press/v89/shaban19a.html)] [[arXiv](https://arxiv.org/abs/1810.10667)]
 
 N. Hatch. _Group Theory: An Introduction and an Application._ University of Chicago VIGRE REU; August 2011.
 [[paper](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2011/REUPapers/Hatch.pdf)]
