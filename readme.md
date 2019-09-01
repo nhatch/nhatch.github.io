@@ -20,10 +20,10 @@ N. Hatch. _Group Theory: An Introduction and an Application._ University of Chic
 
 ## Class Projects
 
-S. Foley, N. Hatch, and A. Beedu. _A Global Optimal Solution to Non-Minimal Relative Pose Estimation._ ECE 8823 Convex Optimization; Spring 2019.
+S. Foley, N. Hatch, and A. Beedu. _A Global Optimal Solution to Non-Minimal Relative Pose Estimation._ [ECE 8823 Convex Optimization](https://mdav.ece.gatech.edu/ece-8823-spring2019/); Spring 2019.
 [[pdf](/files/FoleyHatchBeeduNotes.pdf)]
 
-N. Hatch and E. Wijmans. _Probabilistic Graphical Modeling of Data-Dependent Annotator Accuracy for Active Learning._ CS 8803 Probabilistic Graphical Models; Spring 2018.
+N. Hatch and E. Wijmans. _Probabilistic Graphical Modeling of Data-Dependent Annotator Accuracy for Active Learning._ [CS 8803 Probabilistic Graphical Models](http://fekri.ece.gatech.edu/course_ece8803.html); Spring 2018.
 [[paper](/files/Hatch_Wijmans_final_report.pdf)] [[slides](/files/Hatch_Wijmans_presentation_slides_v2.pdf)]
 
 N. Hatch, A. Sundaresan, M. Dutreix, R. Kuppan, and P. Pattanashetty. _Google Landmark Recognition and Retrieval Challenges._ [ECE 6254 Statistical ML](http://anderson.ece.gatech.edu/ece6254/assignments.html); Spring 2018.
