@@ -9,7 +9,7 @@ Before that, I did some work in learning a real-time, dynamic
 My advisor is [Dr. Byron Boots](https://homes.cs.washington.edu/~bboots/), who
 directs the University of Washington [Robot Learning Lab](http://robotlearning.gatech.edu).
 
-[Curriculum Vitae (CV)](/cv/Hatch-Nathan-CV.pdf) (updated 2019-12-20)
+[Curriculum Vitae (CV)](/cv/Hatch-Nathan-CV.pdf) or shorter [resume](/cv/Hatch-Nathan-Resume.pdf) (both updated 2019-12-20)
 
 ## Publications
 

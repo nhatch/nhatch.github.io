@@ -1,0 +1,91 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Professional CV
+% LaTeX Template
+% Version 2.0 (8/5/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Trey Hunner (http://www.treyhunner.com/)
+%
+% Important note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+
+\name{Nathan T. Hatch} % Your name
+%\address{123 Broadway \\ City, State 12345} % Your address
+\address{\href{https://nhatch.github.io}{https://nhatch.github.io} \\ Seattle, WA, USA \\
+         \href{mailto:nhatch2REMOVE_THIS_PART@uw.edu}{nhatch2@uw.edu} \\ +1 970-297-8081 }
+
+\begin{document}
+
+\begin{rSection}{Education}
+
+{\bf University of Washington, Seattle} \hfill {January 2020 - expected 2023} \\
+Ph.D. in Computer Science \& Engineering; Advisor: Dr. Byron Boots
+
+{\bf Georgia Institute of Technology} \hfill {August 2017 - December 2019} \\
+Ph.D. student in Machine Learning; Advisor: Dr. Byron Boots \\
+Presidential Fellowship
+
+{\bf University of Chicago} \hfill {September 2010 - June 2014} \\
+B.S. in Mathematics and Computer Science with honors \\
+National Merit Scholarship, University Scholarship, Dean's List 2010 - 2014
+
+\end{rSection}
+
+\begin{rSection}{Publications}
+
+A. Shaban, C. Cheng, {\bf N. Hatch}, and B. Boots. ``Truncated Back-Propagation for Bilevel Optimization.''
+{\em Proceedings of the 22nd International Conference on Artificial Intelligence and Statistics (AISTATS 2019).}
+\sref{http://proceedings.mlr.press/v89/shaban19a.html}.
+
+{\bf N. Hatch}. ``Group Theory: An Introduction and an Application.'' {\em University of Chicago VIGRE REU}; 2011.
+\href{http://www.math.uchicago.edu/~may/VIGRE/VIGRE2011/REUPapers/Hatch.pdf}{http://www.math.uchicago.edu/$\sim$may/VIGRE/VIGRE2011/REUPapers/Hatch.pdf}.
+
+\end{rSection}
+
+\begin{rSection}{Unpublished Research Projects}
+\begin{rProject}{High-speed obstacle avoidance for autonomous vehicles}{June 2019 - present}
+\item Adapted model-predictive path-integral control to a goal-seeking navigation and mapping stack
+\item Sped up the LIDAR processing pipeline to 10Hz to support 3m/s vehicle velocities
+\item Designed and ran three days of experiments on Clearpath Jackal robots with Ouster LIDAR sensors
+\end{rProject}
+\begin{rProject}{Curriculum-based learning for bipedal locomotion over rough terrain}{May 2018 - May 2019}
+\item Invented an algorithm to learn a real-time, dynamic bipedal locomotion controller
+\item Tested the algorithm on challenging ``stepping stone'' environments using the DART simulator
+\end{rProject}
+\end{rSection}
+
+\begin{rSection}{Selected Personal Projects}
+  \begin{tabular}{ll}
+    \sref{https://github.com/nhatch/slam} & Factor graph SLAM implemented from scratch \\
+    \sref{https://github.com/nhatch/rrt} & RRT motion planning implemented from scratch \\
+  \end{tabular}
+\end{rSection}
+
+\begin{rSection}{Work Experience}
+\begin{rSubsection}{Full-stack software engineer}{ June 2014 - July 2017}{ eSpark Learning}{ Chicago, IL}
+\item Led the annual iOS app release, removing 300ms tap delay and rewriting the video uploader
+\item Increased sales pipeline by 25\% by integrating our product with Airwatch
+\item Conducted $\sim$20 interviews and code challenge reviews for recruiting
+\end{rSubsection}
+\end{rSection}
+
+\begin{rSection}{Technical Strengths}
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+Programming Languages & Python, C++, Javascript/HTML/CSS, Ruby \\
+Robotics and Simulation Software & ROS, Gazebo, DART \\
+Deep Learning Frameworks & PyTorch, TensorFlow \\
+\end{tabular}
+\end{rSection}
+
+\end{document}
