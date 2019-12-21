@@ -6,7 +6,6 @@ My recent work focuses on high-speed
 using [information theoretic model-predictive control](https://arxiv.org/abs/1707.02342).
 Before that, I did some work in learning a real-time, dynamic
 [bipedal locomotion](https://youtu.be/daH26hxTfsg) controller for rough terrain.
-
 My advisor is [Dr. Byron Boots](https://homes.cs.washington.edu/~bboots/), who
 directs the University of Washington [Robot Learning Lab](http://robotlearning.gatech.edu).
 
@@ -14,15 +13,15 @@ directs the University of Washington [Robot Learning Lab](http://robotlearning.g
 
 ## Publications
 
-A. Shaban, C. Cheng, N. Hatch, and B. Boots. _Truncated Back-Propagation for Bilevel Optimization._ Proceedings of the 22nd International Conference on Artificial Intelligence and Statistics (AISTATS 2019).
+A. Shaban, C. Cheng, N. Hatch, and B. Boots. "Truncated Back-Propagation for Bilevel Optimization." _Proceedings of the 22nd International Conference on Artificial Intelligence and Statistics (AISTATS 2019)._
 ([PMLR](http://proceedings.mlr.press/v89/shaban19a.html)) ([arXiv](https://arxiv.org/abs/1810.10667))
 
-N. Hatch. _Group Theory: An Introduction and an Application._ University of Chicago VIGRE REU; August 2011.
+N. Hatch. "Group Theory: An Introduction and an Application." _University of Chicago VIGRE REU_; August 2011.
 ([paper](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2011/REUPapers/Hatch.pdf))
 
 ## Personal Projects
 
-See my [GitHub](https://github.com/nhatch), in particular this [Mancala AI](https://github.com/nhatch/mcts), factor graph [SLAM implementation](https://github.com/nhatch/slam), and [RRT demo](https://github.com/nhatch/rrt).
+You may be interested in this [Mancala AI](https://github.com/nhatch/mcts), this factor graph [SLAM implementation](https://github.com/nhatch/slam), this [RRT demo](https://github.com/nhatch/rrt), or other projects on [my GitHub](https://github.com/nhatch).
 
 ## Class Projects
 
@@ -40,5 +39,5 @@ N. Hatch. _Unsupervised Curriculum Learning for Image Clustering._ [CS 7643 Deep
 
 ## Bio
 
-I joined the University of Washington [computer science PhD program](https://www.cs.washington.edu/academics/phd) in Winter 2020, after two and a half years in the Georgia Tech [machine learning PhD program](http://ml.gatech.edu/phd). Prior to that, I worked for three years as a software engineer at [eSpark Learning](http://www.esparklearning.com), an education technology company that adaptively curates educational resources for grade school students based on their test scores. I completed my Bachelor of Science degree at the [University of Chicago](http://www.uchicago.edu) in 2014 with a double major in mathematics and computer science. 
+I joined the University of Washington [CS PhD program](https://www.cs.washington.edu/academics/phd) in Winter 2020, after two and a half years in the Georgia Tech [ML PhD program](http://ml.gatech.edu/phd). Prior to that, I worked for three years as a software engineer at [eSpark Learning](http://www.esparklearning.com), an education technology company that adaptively curates educational resources for grade school students based on their test scores. I completed my Bachelor of Science degree at the [University of Chicago](http://www.uchicago.edu) in 2014 with a double major in mathematics and computer science.
 
