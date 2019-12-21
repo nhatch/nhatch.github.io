@@ -1,38 +1,44 @@
 ## Research Interests
 
-I'm interested in developing and analyzing algorithms for reinforcement learning
-problems, especially in cases where the environment is complicated but there is a "teacher"
-available. For example, this teacher could be an oracle mapping states to actions (imitation
-learning) or it could be some additional structure in the learning process (curriculum
-learning). I hope to find some interesting theory and test it on real-world RL problems like
-robotic control. My advisor is [Dr. Byron Boots](https://www.cc.gatech.edu/~bboots3/), who
-directs the [Georgia Tech Robot Learning Lab](http://robotlearning.gatech.edu).
+I'm interested in machine learning for robotic perception and control, with a focus on potential applications in autonomous vehicles.
+My recent work focuses on high-speed
+[obstacle avoidance](https://drive.google.com/file/d/1o2xyIGSVTon7gWzoNC7yMmsSjr-Kxasw/view?usp=drivesdk)
+using [information theoretic model-predictive control](https://arxiv.org/abs/1707.02342).
+Before that, I did some work in learning a real-time, dynamic
+[bipedal locomotion](https://youtu.be/daH26hxTfsg) controller for rough terrain.
 
-[Curriculum Vitae (CV)](/files/Hatch-Nathan-CV-2018-12-24.pdf) (updated 2018-12-24)
+My advisor is [Dr. Byron Boots](https://homes.cs.washington.edu/~bboots/), who
+directs the University of Washington [Robot Learning Lab](http://robotlearning.gatech.edu).
+
+[Curriculum Vitae (CV)](/cv/Hatch-Nathan-CV.pdf) (updated 2019-12-20)
 
 ## Publications
 
 A. Shaban, C. Cheng, N. Hatch, and B. Boots. _Truncated Back-Propagation for Bilevel Optimization._ Proceedings of the 22nd International Conference on Artificial Intelligence and Statistics (AISTATS 2019).
-[[PMLR](http://proceedings.mlr.press/v89/shaban19a.html)] [[arXiv](https://arxiv.org/abs/1810.10667)]
+([PMLR](http://proceedings.mlr.press/v89/shaban19a.html)) ([arXiv](https://arxiv.org/abs/1810.10667))
 
 N. Hatch. _Group Theory: An Introduction and an Application._ University of Chicago VIGRE REU; August 2011.
-[[paper](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2011/REUPapers/Hatch.pdf)]
+([paper](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2011/REUPapers/Hatch.pdf))
+
+## Personal Projects
+
+See my [GitHub](https://github.com/nhatch), in particular this [Mancala AI](https://github.com/nhatch/mcts), factor graph [SLAM implementation](https://github.com/nhatch/slam), and [RRT demo](https://github.com/nhatch/rrt).
 
 ## Class Projects
 
 S. Foley, N. Hatch, and A. Beedu. _A Global Optimal Solution to Non-Minimal Relative Pose Estimation._ [ECE 8823 Convex Optimization](https://mdav.ece.gatech.edu/ece-8823-spring2019/); Spring 2019.
-[[pdf](/files/FoleyHatchBeeduNotes.pdf)]
+([pdf](/files/FoleyHatchBeeduNotes.pdf))
 
 N. Hatch and E. Wijmans. _Probabilistic Graphical Modeling of Data-Dependent Annotator Accuracy for Active Learning._ [CS 8803 Probabilistic Graphical Models](http://fekri.ece.gatech.edu/course_ece8803.html); Spring 2018.
-[[paper](/files/Hatch_Wijmans_final_report.pdf)] [[slides](/files/Hatch_Wijmans_presentation_slides_v2.pdf)]
+([paper](/files/Hatch_Wijmans_final_report.pdf)) ([slides](/files/Hatch_Wijmans_presentation_slides_v2.pdf))
 
 N. Hatch, A. Sundaresan, M. Dutreix, R. Kuppan, and P. Pattanashetty. _Google Landmark Recognition and Retrieval Challenges._ [ECE 6254 Statistical ML](http://anderson.ece.gatech.edu/ece6254/assignments.html); Spring 2018.
-[[paper](/files/landmarks_report.pdf)] [[poster](/files/landmarks_poster.pdf)]
+([paper](/files/landmarks_report.pdf)) ([poster](/files/landmarks_poster.pdf))
 
 N. Hatch. _Unsupervised Curriculum Learning for Image Clustering._ [CS 7643 Deep Learning](https://www.cc.gatech.edu/classes/AY2018/cs7643_fall/); Fall 2017.
-[[poster](/files/image-clustering.pdf)]
+([poster](/files/image-clustering.pdf))
 
 ## Bio
 
-I began studying in the Georgia Tech [Machine Learning PhD program](http://ml.gatech.edu/phd) in Fall 2017. Prior to that, I worked for three years as a software engineer at [eSpark Learning](http://www.esparklearning.com), an education technology company that adaptively curates educational resources for grade school students based on their test scores. I completed my Bachelor of Science degree at the [University of Chicago](http://www.uchicago.edu) in 2014 with a double major in mathematics and computer science. 
+I joined the University of Washington [computer science PhD program](https://www.cs.washington.edu/academics/phd) in Winter 2020, after two and a half years in the Georgia Tech [machine learning PhD program](http://ml.gatech.edu/phd). Prior to that, I worked for three years as a software engineer at [eSpark Learning](http://www.esparklearning.com), an education technology company that adaptively curates educational resources for grade school students based on their test scores. I completed my Bachelor of Science degree at the [University of Chicago](http://www.uchicago.edu) in 2014 with a double major in mathematics and computer science. 
 
