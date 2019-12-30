@@ -29,7 +29,7 @@
 \usepackage{mathabx}
 \usepackage[table,xcdraw,svgnames]{xcolor}
 \usepackage[colorlinks]{hyperref}
-\AtBeginDocument{\hypersetup{urlcolor=Blue}}
+\AtBeginDocument{\hypersetup{urlcolor=Navy}}
 \newcommand{\sref}[1]{\href{#1}{#1}}
 
 \pagestyle{empty} % Suppress page numbers
@@ -64,7 +64,7 @@
 \def \printaddress #1{
   \begingroup
     \def \\ {\addressSep\ }
-    \centerline{#1}
+    \centerline{\textbf{#1}}
   \endgroup
   \par
   \addressskip
@@ -73,7 +73,7 @@
 % \printname is used to print the name as a page header
 \def \printname {
   \begingroup
-    \hfil{\MakeUppercase{\namesize\bf \@name}}\hfil
+    \hfil{\MakeUppercase{\namesize\bf \textsf{\@name}}}\hfil
     \nameskip\break
   \endgroup
 }
@@ -101,9 +101,9 @@
 % Defines the rSection environment for the large sections within the CV
 \newenvironment{rSection}[1]{ % 1 input argument - section name
   \sectionskip
-  \MakeUppercase{\bf #1} % Section title
+  \MakeUppercase{\bf \textsf{#1}} % Section title
   \sectionlineskip
-  \hrule % Horizontal line
+  {\color{Navy} \hrule height 1.5pt} % Horizontal line
   \begin{list}{}{ % List for each individual item in the section
     \setlength{\leftmargin}{1.5em} % Margin within the section
   }
@@ -117,7 +117,7 @@
 %----------------------------------------------------------------------------------------
 
 \newenvironment{rProject}[2]{ % 4 input arguments - project title, dates
-  {\em #1} \hfill {#2}
+  {\bf #1} \hfill {#2}
   \smallskip
   \begin{list}{$\cdot$}{\leftmargin=0em} % \cdot used for bullets, no indentation
    \itemsep -0.5em \vspace{-0.5em} % Compress items in list together for aesthetics
@@ -127,8 +127,8 @@
 }
 
 \newenvironment{rSubsection}[4]{ % 4 input arguments - job title, dates, company name, and location
-  {\bf #3} \hfill {\em #4} \\
-  {\em #1} \hfill {#2}
+  {\bf #3} \hfill {#4} \\
+  {\bf #1} \hfill {#2}
   \smallskip
   \begin{list}{$\cdot$}{\leftmargin=0em} % \cdot used for bullets, no indentation
    \itemsep -0.5em \vspace{-0.5em} % Compress items in list together for aesthetics
