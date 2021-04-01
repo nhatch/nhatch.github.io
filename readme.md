@@ -4,7 +4,8 @@ I'm interested in hierarchical policies for reinforcement learning (RL). For exa
 Before that, I did some work in learning a real-time, dynamic
 [bipedal locomotion](https://youtu.be/daH26hxTfsg) controller for rough terrain.
 
-On the hardware side, I've been closely involved with developing perception/planning/control algorithms for the Clearpath Warthog autonomous ground vehicle at UW.
+On the hardware side, I've been closely involved with developing perception/planning/control algorithms for the [Clearpath Warthog autonomous ground vehicle](https://photos.app.goo.gl/uXSBswH8FgHnaorr5) at UW.
+I've also been participating in a student club, [Husky Robotics](https://www.huskyrobotics.me/), that designs and builds Mars rovers to participate in the University Rover Challenge.
 
 My advisor is [Dr. Byron Boots](https://homes.cs.washington.edu/~bboots/), who
 directs the University of Washington [Robot Learning Lab](http://robotlearning.gatech.edu).
@@ -30,13 +31,13 @@ You may be interested in this [Mancala AI](https://github.com/nhatch/mcts), this
 ## Class Projects
 
 A. Fishman, N. Hatch, and Y. Yang. _Navigating Holiday Traffic._ [CSE 599 Reinforcement Learning](https://homes.cs.washington.edu/~bboots/RL-Fall2020/); Autumn 2020.
-([paper](/files/Navigating\_Holiday\_Traffic.pdf)) ([slides](https://docs.google.com/presentation/d/14OqVKhnbL5BtnwXD-2FRr80QebtkZjkICApYpljAoGg))
+([paper](/files/Navigating_Holiday_Traffic.pdf)) ([slides](https://docs.google.com/presentation/d/14OqVKhnbL5BtnwXD-2FRr80QebtkZjkICApYpljAoGg))
 
 N. Hatch, G. Parpart, D. Starikov. _Deep Robot Localization._ [CSE 571 Robotics](https://courses.cs.washington.edu/courses/cse571/20sp/); Spring 2020.
 ([paper](files/Deep-Robot-Localization.pdf)) ([slides](https://docs.google.com/presentation/d/1KFFPJaoL5LctJbqo79rDn1qVgsLjKHGr5tkprjcoeVQ))
 
 A. Baughan, N. Hatch, V. Raganeni, and B. Yang. _Search-Based Testing for Robotic Motion Planning Algorithms._ [CSE 503 Software Engineering](https://homes.cs.washington.edu/~rjust/courses/2020Winter/CSE503/); Winter 2020.
-([paper](/files/Search\_Based\_Testing.pdf)) ([slides](https://docs.google.com/presentation/d/1ER0XtU6asJ3MKk-b1D7mIUPU-lZa2kUanL\_SIbILsW0))
+([paper](/files/Search_Based_Testing.pdf)) ([slides](https://docs.google.com/presentation/d/1ER0XtU6asJ3MKk-b1D7mIUPU-lZa2kUanL_SIbILsW0))
 
 S. Foley, N. Hatch, and A. Beedu. _A Global Optimal Solution to Non-Minimal Relative Pose Estimation._ [ECE 8823 Convex Optimization](https://mdav.ece.gatech.edu/ece-8823-spring2019/); Spring 2019.
 ([pdf](/files/FoleyHatchBeeduNotes.pdf))
