@@ -10,7 +10,7 @@ I've also been participating in a student club, [Husky Robotics](https://www.hus
 My advisor is [Dr. Byron Boots](https://homes.cs.washington.edu/~bboots/), who
 directs the University of Washington [Robot Learning Lab](http://robotlearning.gatech.edu).
 
-[Curriculum Vitae (CV)](/cv/Hatch-Nathan-CV--2021-04-01.pdf) or shorter [resume](/cv/Hatch-Nathan-Resume--2021-04-01.pdf) (both updated 2021-08-27)
+[Curriculum Vitae (CV)](/cv/Hatch-Nathan-CV--2021-08-27.pdf) or shorter [resume](/cv/Hatch-Nathan-Resume--2021-08-27.pdf) (both updated 2021-08-27)
 
 ## Publications
 
