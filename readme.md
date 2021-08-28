@@ -10,13 +10,13 @@ I've also been participating in a student club, [Husky Robotics](https://www.hus
 My advisor is [Dr. Byron Boots](https://homes.cs.washington.edu/~bboots/), who
 directs the University of Washington [Robot Learning Lab](http://robotlearning.gatech.edu).
 
-[Curriculum Vitae (CV)](/cv/Hatch-Nathan-CV--2021-04-01.pdf) or shorter [resume](/cv/Hatch-Nathan-Resume--2021-04-01.pdf) (both updated 2021-04-01)
+[Curriculum Vitae (CV)](/cv/Hatch-Nathan-CV--2021-04-01.pdf) or shorter [resume](/cv/Hatch-Nathan-Resume--2021-04-01.pdf) (both updated 2021-08-27)
 
 ## Publications
 
 N. Hatch and B. Boots. "The Value of Planning for Infinite-Horizon Model Predictive Control."
 _Proceedings of the 2021 International Conference on Robotics and Automation (ICRA 2021)._
-(PDF forthcoming.)
+([arXiv](https://arxiv.org/abs/2104.02863))
 
 A. Shaban, C. Cheng, N. Hatch, and B. Boots. "Truncated Back-Propagation for Bilevel Optimization." _Proceedings of the 22nd International Conference on Artificial Intelligence and Statistics (AISTATS 2019)._
 ([PMLR](http://proceedings.mlr.press/v89/shaban19a.html)) ([arXiv](https://arxiv.org/abs/1810.10667))
