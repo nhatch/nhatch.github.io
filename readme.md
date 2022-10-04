@@ -7,7 +7,7 @@ Prior to that, I worked on very similar software for the [Clearpath Warthog auto
 
 For the 2020-2021 academic year, I also led the software team for a student club called [Husky Robotics](https://www.huskyrobotics.me/), which designs and builds Mars rovers to participate in the University Rover Challenge. Under my leadership, we got third place in the (admittedly virtual) 2021 competition.
 
-[Curriculum Vitae (CV)](/cv/Hatch-Nathan-CV--2021-08-27.pdf) or shorter [resume](/cv/Hatch-Nathan-Resume--2021-08-27.pdf) (both updated 2021-08-27)
+[Curriculum Vitae (CV)](/cv/Hatch-Nathan-CV--2022-10-04.pdf) or shorter [resume](/cv/Hatch-Nathan-Resume--2022-10-04.pdf) (both updated 2022-10-04)
 
 ## Research interests
 
