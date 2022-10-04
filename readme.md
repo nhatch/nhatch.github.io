@@ -1,22 +1,26 @@
-## Research Interests
+## Engineering Interests
 
-I'm interested in hierarchical policies for reinforcement learning (RL). For example, robotic navigation is generally solved hierarchically via planning (solving a simplified problem to choose a path) and control (following that path using a more detailed model). This seems to be more computation- and sample-efficient than directly applying standard RL algorithms. Recently, I've been investigating this question in the context of robotic navigation by interpreting the planning solution as an approximate value function for the RL problem.
-Before that, I did some work in learning a real-time, dynamic
-[bipedal locomotion](https://youtu.be/daH26hxTfsg) controller for rough terrain.
-
-On the hardware side, I've been closely involved with developing perception/planning/control algorithms for the [Clearpath Warthog autonomous ground vehicle](https://photos.app.goo.gl/uXSBswH8FgHnaorr5) at UW.
-I've also been participating in a student club, [Husky Robotics](https://www.huskyrobotics.me/), that designs and builds Mars rovers to participate in the University Rover Challenge.
-
-My advisor is [Dr. Byron Boots](https://homes.cs.washington.edu/~bboots/), who
+I am mostly interested in the practical engineering work that goes into creating a working robotic system. Since fall of 2021, I've led the software team for the [UW RACER project](https://www.apl.uw.edu/project/project.php?id=racer), which is developing software for autonomous offroad vehicles. My supervisor (and former PhD advisor) is [Dr. Byron Boots](https://homes.cs.washington.edu/~bboots/), who
 directs the University of Washington [Robot Learning Lab](http://robotlearning.gatech.edu).
 
+Prior to that, I worked on very similar software for the [Clearpath Warthog autonomous ground vehicle](https://photos.app.goo.gl/uXSBswH8FgHnaorr5).
+
+For the 2020-2021 academic year, I also led the software team for a student club called [Husky Robotics](https://www.huskyrobotics.me/), which designs and builds Mars rovers to participate in the University Rover Challenge. Under my leadership, we got third place in the (admittedly virtual) 2021 competition.
+
 [Curriculum Vitae (CV)](/cv/Hatch-Nathan-CV--2021-08-27.pdf) or shorter [resume](/cv/Hatch-Nathan-Resume--2021-08-27.pdf) (both updated 2021-08-27)
+
+## Research interests
+
+I'm interested in the interface between global and local planning for robotic navigation problems. Such navigation problems are generally solved hierarchically via global planning (solving a simplified problem over a large area to choose a path) and local planning (following the initial segment of that path using a more detailed model). This seems to be more computation- and sample-efficient than solving the entire problem at the more detailed local level. However, what happens when the proposed global plan is not feasible according to the local model? How can we make the interface between global and local planning as smooth as possible? What is the proper division of labor between these two planners?
+
+Before that, I did some work in learning a real-time, dynamic
+[bipedal locomotion](https://youtu.be/daH26hxTfsg) controller for rough terrain.
 
 ## Publications
 
 N. Hatch and B. Boots. "The Value of Planning for Infinite-Horizon Model Predictive Control."
 _Proceedings of the 2021 International Conference on Robotics and Automation (ICRA 2021)._
-([arXiv](https://arxiv.org/abs/2104.02863))
+([IEEE Xplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561718)) ([arXiv](https://arxiv.org/abs/2104.02863))
 
 A. Shaban, C. Cheng, N. Hatch, and B. Boots. "Truncated Back-Propagation for Bilevel Optimization." _Proceedings of the 22nd International Conference on Artificial Intelligence and Statistics (AISTATS 2019)._
 ([PMLR](http://proceedings.mlr.press/v89/shaban19a.html)) ([arXiv](https://arxiv.org/abs/1810.10667))
@@ -53,5 +57,5 @@ N. Hatch. _Unsupervised Curriculum Learning for Image Clustering._ [CS 7643 Deep
 
 ## Bio
 
-I joined the University of Washington [CS PhD program](https://www.cs.washington.edu/academics/phd) in Winter 2020, after two and a half years in the Georgia Tech [ML PhD program](http://ml.gatech.edu/phd). Prior to that, I worked for three years as a software engineer at [eSpark Learning](http://www.esparklearning.com), an education technology company that adaptively curates educational resources for grade school students based on their test scores. I completed my Bachelor of Science degree at the [University of Chicago](http://www.uchicago.edu) in 2014 with a double major in mathematics and computer science.
+I completed my Bachelor of Science degree at the [University of Chicago](http://www.uchicago.edu) in 2014, then worked for three years at an education technology startup company called [eSpark Learning](http://www.esparklearning.com). In 2017, I joined the Georgia Tech [ML PhD program](http://ml.gatech.edu/phd) and transfered to the University of Washington [CS PhD program](https://www.cs.washington.edu/academics/phd) in Winter 2020. After obtaining a master's degree from UW in 2021, I carefully decided not to pursue a career in academia and pivoted to work full-time on system software engineering for the [UW RACER project](https://www.apl.uw.edu/project/project.php?id=racer).
 
