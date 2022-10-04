@@ -1,0 +1,63 @@
+NATHAN T. HATCH
+https://nhatch.github.io ‚ Seattle, WA, USA ‚ nhatch2@uw.edu ‚ +1 970-297-8081
+
+ROBOTIC SYSTEMS ENGINEERING EXPERIENCE
+======================================
+
+RACER Project, U. of Washington
+Software Team Lead
+Seattle, WA
+September 2021 - present
+Develop perception, planning, and control software for ~10 m/s autonomous navigation of a Polaris RZR in off-road terrain including dirt trails, steep hills, tall grass, bushes, trees, water, and rocks
+
+Brainstorm and prioritize big projects that might improve autonomous performance (e.g. variable dt)
+Design and implement features for local planning and control (e.g. attitude costs)
+Design and implement tools for efficient development and field tests (e.g. testing on rosbag replay)
+Curate regression test cases and tune parameters to pass the tests
+Prepare software for weekly field tests (code review, simulation validation, writing field test plan)
+Attend field tests, direct experiments, drive chase vehicle, and assist with recovery after accidents
+Analyze field test results to identify issues and propose solutions (e.g. open-loop execution at waypoints)
+Manage 10-person team (maintain task tracking system, weekly group meeting, and several 1-1s)
+Recruit and interview team members and maintain onboarding materials
+Explain technical progress to stakeholders, including UW PIs and DARPA program manager
+Handle software-related logistics (e.g. data offload, security, shipping computing equipment)
+
+SARA Project, U. of Washington
+System Engineer
+Seattle, WA
+June 2019 - September 2021
+
+Conducted weekly field experiments for perception, planning, and control of a Clearpath Warthog robot
+(a.k.a. Argo J5 XTR) outfitted with cameras and an Ouster OS2 LIDAR sensor
+Handled physical and electrical hardware integration for new sensors
+Sped up the LIDAR processing pipeline to 10Hz to support 3m/s vehicle velocities
+
+Husky Robotics Club, U. of Washington
+Software Subsystem Lead
+Seattle, WA
+January 2020 - September 2021
+
+Wrote software for teleoperation and autonomous control of a student-designed and -built Mars rover
+Recruited team members and delegated tasks to prepare for the University Rover Challenge (URC)
+Implemented a planar navigation simulator with A* search, and inverse kinematics for the rover arm
+Teleoperated the rover during the 2021 virtual URC, in which we placed 3rd globally!
+
+EDUCATION
+=========
+
+University of Washington, Seattle
+January 2020 - September 2021
+M.S. in Computer Science & Engineering; Advisor: Dr. Byron Boots
+
+ACADEMIC PUBLICATIONS
+=====================
+
+N. Hatch and B. Boots. "The Value of Planning for Infinite-Horizon Model Predictive Control."
+ICRA 2021. https://arxiv.org/abs/2104.02863.
+A. Shaban, C. Cheng, N. Hatch, and B. Boots. "Truncated Back-Propagation for Bilevel Optimiza-
+tion." AISTATS 2019. http://proceedings.mlr.press/v89/shaban19a.html.
+
+TECHNICAL STRENGTHS
+===================
+
+Python, C++, ROS, Git, PyTorch, TorchScript
