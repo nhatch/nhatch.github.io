@@ -40,10 +40,51 @@ B.S. in Computer Science with honors
 
 \end{rSection}
 
+\begin{rSection}{Robotic Systems Engineering Experience}
+
+\begin{rSubsection}{Software Team Lead}{September 2021 - present}{\href{https://www.apl.uw.edu/project/project.php?id=racer}{RACER Project, U. of Washington}}{Seattle, WA}
+{\bf\small Develop perception, planning, and control software for $\sim$10 m/s autonomous navigation of a Polaris RZR in off-road terrain including \href{https://www.youtube.com/watch?v=AlNOzhza7pg}{dirt trails, steep hills, tall grass, bushes, trees, water, and rocks}}
+\item Brainstorm and prioritize big projects that might improve autonomous performance (e.g. variable {\it dt})
+\item Design and implement features for local planning and control (e.g. attitude costs)
+\item Design and implement tools for efficient development and field tests (e.g. testing on rosbag replay)
+\item Curate regression test cases and tune parameters to pass the tests
+\item Prepare software for weekly field tests (code review, simulation validation, writing field test plan)
+\item Attend field tests, direct experiments, drive chase vehicle, and assist with recovery after accidents
+\item Analyze field test results to identify issues and propose solutions (e.g. open-loop execution at waypoints)
+\item Manage 10-person team (maintain task tracking system, weekly group meeting, and several 1-1s)
+\item Recruit and interview team members and maintain onboarding materials
+\item Explain technical progress to stakeholders, including UW PIs and DARPA program manager
+\item Handle software-related logistics (e.g. data offload, security, shipping computing equipment)
+\end{rSubsection}
+
+\begin{rSubsection}{System Engineer}{June 2019 - September 2021}{SARA Project, U. of Washington}{Seattle, WA}
+\item Conducted weekly field experiments with a Clearpath Warthog robot (a.k.a. Argo J5 XTR) outfitted with cameras and an Ouster OS2 LIDAR sensor
+\item Tested and improved our custom perception, planning, and control stack
+\item Handled physical and electrical hardware integration for new sensors
+\item Coordinated tasks for a team of four PIs and half a dozen graduate and undergraduate students
+\item Conducted biweekly progress update meetings with the Army Research Lab
+\item Repaired a leaky grease seal with remote support from the manufacturer
+\item Adapted model-predictive path-integral control to a goal-seeking navigation and mapping stack
+\item Sped up the LIDAR processing pipeline to 10Hz to support 3m/s vehicle velocities
+\item Soldered header pins to the motor control circuit board to collect serial debug output
+\end{rSubsection}
+
+\begin{rSubsection}{Software Subsystem Lead}{January 2020 - September 2021}{Husky Robotics Club, U. of Washington}{ Seattle, WA}
+\item Wrote software for teleoperation and autonomous control of a student-designed and -built Mars rover
+\item Delegated tasks to prepare for the University Rover Challenge (URC)
+\item Recruited software team members by writing an application form and reviewing responses
+\item Implemented a planar navigation simulator with A* search, and inverse kinematics for the rover arm
+\item Prepared the software portions of official competition essay and video submissions
+\item Coordinated with hardware and electrical subsystem leads to mount sensors and motor boards
+\item Teleoperated the rover during the 2021 virtual URC, in which we placed 3rd globally!
+\end{rSubsection}
+
+\end{rSection}
+
 \begin{rSection}{Publications}
 
 {\bf N. Hatch} and B. Boots. ``The Value of Planning for Infinite-Horizon Model Predictive Control.''
-{\em Proceedings of the 2021 International Conference on Robotics and Automation (ICRA 2021).}
+{\em Proceedings of the 2021 International Conference on Robotics and Automation (ICRA 2021).} \\
 \sref{https://arxiv.org/abs/2104.02863}.
 
 A. Shaban, C. Cheng, {\bf N. Hatch}, and B. Boots. ``Truncated Back-Propagation for Bilevel Optimization.''
@@ -57,36 +98,11 @@ A. Shaban, C. Cheng, {\bf N. Hatch}, and B. Boots. ``Truncated Back-Propagation 
 
 \begin{rSection}{Unpublished Research Projects}
 
-\begin{rProject}{High-speed off-road autonomous navigation}{June 2019 - present}
-\item Conduct weekly field experiments with a Clearpath Warthog robot (a.k.a. Argo J5 XTR) outfitted with cameras and an Ouster OS2 LIDAR sensor
-\item Test and improve our custom perception, planning, and control stack
-\item Handle physical and electrical hardware integration for new sensors
-\item Coordinate tasks for a team of four PIs and half a dozen graduate and undergraduate students
-\item Conduct biweekly progress update meetings with the Army Research Lab
-\item Repaired a leaky grease seal with remote support from the manufacturer
-\item Adapted model-predictive path-integral control to a goal-seeking navigation and mapping stack
-\item Sped up the LIDAR processing pipeline to 10Hz to support 3m/s vehicle velocities
-\item Soldered header pins to the motor control circuit board to collect serial debug output
-\end{rProject}
-
 \begin{rProject}{Curriculum-based learning for bipedal locomotion over rough terrain}{May 2018 - May 2019}
 \item Extensively studied prior work in locomotion and summarized it in a two-hour lab presentation
 \item Invented an algorithm to learn a real-time, dynamic bipedal locomotion controller
 \item Tested the algorithm on challenging ``stepping stone'' environments using the DART simulator
 \end{rProject}
-
-\end{rSection}
-
-\begin{rSection}{Clubs and Activities}
-
-\begin{rSubsection}{Software Subsystem Lead}{January 2020 - present}{Husky Robotics Club, U. of Washington}{ Seattle, WA}
-\item Write software for teleoperation and autonomous control of a student-designed and -built Mars rover
-\item Delegate tasks to maximize our team's chances of winning the University Rover Challenge
-\item Recruit software team members by writing an application form and reviewing responses
-\item Prepare the software portions of official competition essay and video submissions
-\item Coordinate with hardware and electrical subsystem leads to mount sensors and motor boards
-\item Implemented a planar navigation simulator with A* search, and inverse kinematics for the rover arm
-\end{rSubsection}
 
 \end{rSection}
 
@@ -97,12 +113,11 @@ A. Shaban, C. Cheng, {\bf N. Hatch}, and B. Boots. ``Truncated Back-Propagation 
     \sref{https://github.com/nhatch/ilqr} & Iterative LQR control implemented from scratch \\
     \sref{https://github.com/nhatch/mcts} & A (pretty good) AI for Mancala using Monte Carlo tree search \\
     \sref{https://github.com/nhatch/mnist} & Multilayer perceptron for MNIST digit recognition from scratch \\
-    % Removed to help pagebreaks line up with section breaks
-    %\sref{https://github.com/nhatch/casia} & Convolutional network for CASIA Chinese characters using Keras
+    \sref{https://github.com/nhatch/casia} & Convolutional network for CASIA Chinese characters using Keras
   \end{tabular}
 \end{rSection}
 
-\begin{rSection}{Work Experience}
+\begin{rSection}{Other Work Experience}
 
 \begin{rSubsection}{Full-stack software engineer}{ June 2014 - July 2017}{ eSpark Learning}{ Chicago, IL}
 \item Led the annual iOS app release, removing 300ms tap delay and rewriting the video uploader
@@ -215,7 +230,7 @@ University of Chicago, Fulton Prize for Orchestral Excellence \hfill 2012
 \begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
 Programming Languages & Python, C++, Javascript/HTML/CSS, Ruby \\
 Robotics and Simulation Software & ROS, Gazebo, DART \\
-Deep Learning Frameworks & PyTorch, TensorFlow \\
+Deep Learning Frameworks & PyTorch, TorchScript, TensorFlow \\
 Tools & Git, Vim, LaTeX \\
 Foreign Languages & Spanish
 \end{tabular}
