@@ -42,6 +42,34 @@ Recruited team members and delegated tasks to prepare for the University Rover C
 Implemented a planar navigation simulator with A* search, and inverse kinematics for the rover arm
 Teleoperated the rover during the 2021 virtual URC, in which we placed 3rd globally!
 
+OTHER SOFTWARE ENGINEERING EXPERIENCE
+=====================================
+
+eSpark Learning
+Full-stack software engineer
+Chicago, IL
+June 2014 - July 2017
+
+Led the annual iOS app release, removing 300ms tap delay and rewriting the video uploader
+Increased sales pipeline by 25% by integrating our product with Airwatch
+Improved academic fidelity metric from 80% to 87% by refining our app deployment system
+Implemented Apple's "Device Assignment" protocol, making our MDM first-to-market (solo project)
+Conducted ~20 interviews and code challenge reviews for recruiting
+
+Dept. Computer Science, University of Chicago
+chiTCP developer
+Chicago, IL
+October 2013 - June 2014
+
+Implemented a TCP-over-TCP daemon for use in Borja Sotomayor's networks class
+
+Mission Street Manufacturing
+Software intern
+Santa Barbara, CA
+June - August 2013
+
+Developed prototype front- and back-end software for consumer-friendly 3D printing
+
 EDUCATION
 =========
 
